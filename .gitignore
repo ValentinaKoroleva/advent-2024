@@ -1,0 +1,13 @@
+# Ignore all
+*
+# Unignore go files
+!*.go
+!*.mod
+# Unignore md files
+!*.md
+# Unignore txt files
+!*.txt
+# Unignore gitignore
+!.gitignore
+# Unignore all dirs
+!*/
